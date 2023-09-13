@@ -1,5 +1,11 @@
 # Fitness UI Mobile Application
 
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33642f37342f61392f33643734613931613464323630666335616262353366643032376430666261652e6a7067](https://github.com/RedisMadani/fitness-ui-master/assets/136177376/ad55792e-db0d-40fa-959b-440e3ebe67b4)
+
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64302f33352f62352f64303335623535393366623061346461653738633061353264386132356139372e6a7067](https://github.com/RedisMadani/fitness-ui-master/assets/136177376/34b5f96a-5292-4212-b436-ba1f1f032fcd)
+
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34612f61632f31612f34616163316136656464383061666439613636663531653365613131616538342e6a7067](https://github.com/RedisMadani/fitness-ui-master/assets/136177376/dc016dce-31d7-421b-9fd3-62cf0048cfb6)
+
 Welcome to the Fitness UI mobile application repository! This cutting-edge Flutter application embodies a commitment to health and well-being. It's designed to provide users with an intuitive interface for tracking fitness progress and maintaining an active lifestyle. Below, you'll find valuable information on the app's structure, features, and how to get started.
 
 ## Table of Contents
